@@ -3,6 +3,7 @@
   "displayName": "Anr Chile Arduino Pack",
   "description": "Todo lo necesario para trabajar con arduino en Anr",
   "version": "1.0.0",
+  "repository": "github:anrchile/arduino-pack",
   "engines": {
     "vscode": "^1.74.0"
   },

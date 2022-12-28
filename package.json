@@ -1,0 +1,22 @@
+{
+  "name": "anr-chile-arduino-pack",
+  "displayName": "Anr Chile Arduino Pack",
+  "description": "Todo lo necesario para trabajar con arduino en Anr",
+  "version": "1.0.0",
+  "engines": {
+    "vscode": "^1.74.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "MS-CEINTL.vscode-language-pack-es",
+    "ms-vsliveshare.vsliveshare",
+    "GitHub.vscode-pull-request-github",
+    "donjayamanne.githistory",
+    "mhutchie.git-graph",
+    "pomber.git-file-history",
+    "ms-vscode.cpptools",
+    "vsciot-vscode.vscode-arduino"
+  ]
+}
